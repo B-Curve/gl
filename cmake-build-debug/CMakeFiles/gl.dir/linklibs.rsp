@@ -1,0 +1,1 @@
+ -lopengl32 ../lib/glfw/libglfw3.a ../lib/glew/glew32.lib -lglu32 -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
